@@ -19,7 +19,7 @@ public class UIStartController : MonoBehaviour
 		if (!canvasParent) {
 			canvasParent = GameObject.Find("Canvas").transform;
 			if (canvasParent) {
-				Menue1 = Instantiate (Menu1, canvasParent.position, canvasParent.rotation) as GameObject;
+        Menue1 = Instantiate (Menu1) as GameObject; //, canvasParent.position, canvasParent.rotation) as GameObject;
 				Menue1.transform.SetParent (canvasParent, false);
 			}
 		}
