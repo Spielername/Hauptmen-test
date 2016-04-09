@@ -12,7 +12,6 @@ C:\Users\Public\Documents\Unity Projects\Hauptmenütest\Temp\bin\Debug\Unity.UNe
 C:\Users\Public\Documents\Unity Projects\Hauptmenütest\Temp\bin\Debug\Unity.CecilTools.dll
 C:\Users\Public\Documents\Unity Projects\Hauptmenütest\Temp\bin\Debug\Mono.Cecil.Pdb.dll
 C:\Users\Public\Documents\Unity Projects\Hauptmenütest\Temp\bin\Debug\Mono.Cecil.Mdb.dll
-C:\Users\Public\Documents\Unity Projects\Hauptmenütest\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
 C:\Users\Public\Documents\Unity Projects\Hauptmenütest\Temp\bin\Debug\UnityEngine.xml
 C:\Users\Public\Documents\Unity Projects\Hauptmenütest\Temp\bin\Debug\UnityEditor.xml
 C:\Users\Public\Documents\Unity Projects\Hauptmenütest\Temp\bin\Debug\UnityEngine.UI.xml
